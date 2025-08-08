@@ -1,3 +1,3 @@
 # HARSH-PROJECT-DEMO
 FIRST REPOSITORY . 
-Author-Harsh Kant Vardhan
+Author - Harsh Kant Vardhan
